@@ -1,29 +1,21 @@
-# This is a large heading
+# Anne Krone
 
-## This is a smaller heading
+###Geography
 
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet’s pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
+I live in **Corvallis, Oregon**. I am originally from Des Moines, Iowa.
 
-- This is
-- an unordered
-- list
+###Hobbies
 
-1. This is
-2. an ordered
-3. list
+In my free time, I enjoy:
 
-Here is `some code` in the middle of a sentence.
+-Running
+-Painting
+-Baking
 
-```
-This is
-a block
-of code
-```
+###Food
 
-Here is how you make [a link](https://www.wikipedia.org/).
+Some of my favorite foods are:
 
-![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
-
+1. Sweet potatoes
+2. Bread
+3. Curry
