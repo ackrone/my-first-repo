@@ -1,10 +1,10 @@
 # Anne Krone
 
-##Geography
+**Geography**
 
-I live in **Corvallis, Oregon**. I am originally from Des Moines, Iowa.
+I live in Corvallis, Oregon. I am originally from Des Moines, Iowa.
 
-##Hobbies
+**Hobbies**
 
 In my free time, I enjoy:
 
@@ -12,7 +12,7 @@ In my free time, I enjoy:
 - Painting
 - Baking
 
-##Food
+**Food**
 
 Some of my favorite foods are:
 
